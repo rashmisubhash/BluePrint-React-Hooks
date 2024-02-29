@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BluePrint-React-Hooks/static/css/main.66ca3880.css",
+    "main.js": "/BluePrint-React-Hooks/static/js/main.a3d84c81.js",
+    "static/js/453.1589b360.chunk.js": "/BluePrint-React-Hooks/static/js/453.1589b360.chunk.js",
+    "index.html": "/BluePrint-React-Hooks/index.html",
+    "main.66ca3880.css.map": "/BluePrint-React-Hooks/static/css/main.66ca3880.css.map",
+    "main.a3d84c81.js.map": "/BluePrint-React-Hooks/static/js/main.a3d84c81.js.map",
+    "453.1589b360.chunk.js.map": "/BluePrint-React-Hooks/static/js/453.1589b360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ca3880.css",
+    "static/js/main.a3d84c81.js"
+  ]
+}
